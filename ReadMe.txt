@@ -17,4 +17,4 @@ in the R console when running the R Shiny App in R Studio.
 Please reach out to us if you have any questions.
 
 Sincerely,
-GWU Team
+Naveen.
